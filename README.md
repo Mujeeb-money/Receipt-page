@@ -1,2 +1,0 @@
-# Receipt-page
-Receipt page
